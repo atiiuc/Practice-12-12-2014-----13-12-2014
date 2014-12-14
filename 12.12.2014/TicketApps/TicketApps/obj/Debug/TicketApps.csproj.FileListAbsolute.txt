@@ -1,0 +1,9 @@
+D:\atiiucProjects\TicketApps\TicketApps\bin\Debug\TicketApps.exe.config
+D:\atiiucProjects\TicketApps\TicketApps\bin\Debug\TicketApps.exe
+D:\atiiucProjects\TicketApps\TicketApps\bin\Debug\TicketApps.pdb
+D:\atiiucProjects\TicketApps\TicketApps\obj\Debug\TicketApps.csprojResolveAssemblyReference.cache
+D:\atiiucProjects\TicketApps\TicketApps\obj\Debug\TicketApps.Form1.resources
+D:\atiiucProjects\TicketApps\TicketApps\obj\Debug\TicketApps.Properties.Resources.resources
+D:\atiiucProjects\TicketApps\TicketApps\obj\Debug\TicketApps.csproj.GenerateResource.Cache
+D:\atiiucProjects\TicketApps\TicketApps\obj\Debug\TicketApps.exe
+D:\atiiucProjects\TicketApps\TicketApps\obj\Debug\TicketApps.pdb

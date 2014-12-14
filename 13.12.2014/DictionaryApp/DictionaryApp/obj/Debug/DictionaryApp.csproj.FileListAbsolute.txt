@@ -1,0 +1,9 @@
+D:\atiiucProjects\13.12.2014\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.exe.config
+D:\atiiucProjects\13.12.2014\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.exe
+D:\atiiucProjects\13.12.2014\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.pdb
+D:\atiiucProjects\13.12.2014\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.csprojResolveAssemblyReference.cache
+D:\atiiucProjects\13.12.2014\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.Form1.resources
+D:\atiiucProjects\13.12.2014\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.Properties.Resources.resources
+D:\atiiucProjects\13.12.2014\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.csproj.GenerateResource.Cache
+D:\atiiucProjects\13.12.2014\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.exe
+D:\atiiucProjects\13.12.2014\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.pdb

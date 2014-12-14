@@ -1,0 +1,6 @@
+D:\atiiucProjects\13.12.2014\QueueApps\QueueApps\bin\Debug\QueueApps.exe.config
+D:\atiiucProjects\13.12.2014\QueueApps\QueueApps\bin\Debug\QueueApps.exe
+D:\atiiucProjects\13.12.2014\QueueApps\QueueApps\bin\Debug\QueueApps.pdb
+D:\atiiucProjects\13.12.2014\QueueApps\QueueApps\obj\Debug\QueueApps.csprojResolveAssemblyReference.cache
+D:\atiiucProjects\13.12.2014\QueueApps\QueueApps\obj\Debug\QueueApps.exe
+D:\atiiucProjects\13.12.2014\QueueApps\QueueApps\obj\Debug\QueueApps.pdb
